@@ -1,0 +1,10 @@
+* pretty-function
+
+utility for making functions and closures pprint useful information
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nallen05/pretty-function.git   |
+| commit  | 0cd177c  |
+| systems | pretty-function |
+|---------+-------------------------------------------|
+
